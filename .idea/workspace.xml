@@ -62,8 +62,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="5" />
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
     <option name="width" value="1374" />
     <option name="height" value="732" />
   </component>
@@ -337,7 +337,13 @@
       <option name="project" value="LOCAL" />
       <updated>1533037680197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增添了一个实验">
+      <created>1533037993492</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533037993492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -350,7 +356,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="5" width="1374" height="732" extended-state="0" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.49430895" order="0" side_tool="false" content_ui="combo" />
